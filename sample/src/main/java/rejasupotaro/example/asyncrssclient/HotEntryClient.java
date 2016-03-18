@@ -18,7 +18,7 @@ public class HotEntryClient {
 
     private static final AsyncRssClient sClient = new AsyncRssClient();
 
-    private static final String HOTENTRY_RSS_URL = "http://b.hatena.ne.jp/hotentry?mode=rss";
+    private static final String HOTENTRY_RSS_URL = "http://www.standardmedia.co.ke/rssfeeds";
 
     public static interface HotEntryResponseHandler {
 
